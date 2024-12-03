@@ -6,8 +6,6 @@
 ![1 2-2](https://github.com/user-attachments/assets/945b0dc2-aa6b-4ea4-9037-592e44b59e16)  
 ![1 2-3](https://github.com/user-attachments/assets/d6704d4d-fb3c-4170-99dd-30b944c9fbad)
 
-
-
 ## Урок 3
 Расширение Фиббоначи на BTC  
 ![1 3-1](https://github.com/user-attachments/assets/9c50c330-be6d-4075-9564-ed10dafdf927)  
@@ -27,8 +25,6 @@
 ![1 3-7](https://github.com/user-attachments/assets/f176bd7e-493d-497e-9abb-643377a1a900)  
 ![1 3-8](https://github.com/user-attachments/assets/14dc8efc-fb9d-4fd3-8f39-c0e02e81213c)
 
- ## Урок 4
-![1 4-1](https://github.com/user-attachments/assets/2cca0416-493d-451c-9f7c-1722e2a9b8b9)  
+ ## Урок 4  
+![1 4-1](https://github.com/user-attachments/assets/2cca0416-493d-451c-9f7c-1722e2a9b8b9)   
 ![1 4-2](https://github.com/user-attachments/assets/2878f2f8-e0e6-4baf-82b1-89aa169c7f8e)
-
-![1 4-2](https://github.com/user-attachments/assets/f7dd448e-33d2-4605-8031-0c11a27d8dc3)
